@@ -1,4 +1,4 @@
 # app-dev
 My first repository
-**Fifty shades of grey**
-*Fifty Shades of Grey is a 2011 erotic romance novel by British author E. L. James.[1] It became the first instalment in the Fifty Shades novel series that follows the deepening relationship between a college graduate, Anastasia Steele, and a young business magnate, Christian Grey. It contains explicitly erotic scenes featuring elements of sexual practices involving bondage/discipline, dominance/submission, and sadism/masochism (BDSM).*
+**The three idiots**
+*3 Idiots is a 2009 Indian Hindi-language coming-of-age satirical comedy-drama film written, edited and directed by Rajkumar Hirani, co-written by Abhijat Joshi and produced by Vidhu Vinod Chopra. The film stars Aamir Khan, R. Madhavan and Sharman Joshi in the title roles, while Kareena Kapoor, Boman Irani, Mona Singh and Omi Vaidya play supporting roles. Narrated through two parallel timelines, one in the present and the other set ten years earlier, the story follows the friendship of three students at an Indian engineering college and is a satire about the intrinsic paternalism under the Indian education system.*
